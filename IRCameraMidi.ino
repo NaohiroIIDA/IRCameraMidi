@@ -53,7 +53,9 @@ void loop()
     }
 
     now_ch = map(positionX[0], 0, 650, 35, 85);
-
+    
+    Serial.println(now_ch);
+    
     if (positionX[0] == 1023) {
       now_ch = 0;
     }
@@ -67,15 +69,15 @@ void loop()
       MidiUSB.flush();
 
       old_ch = now_ch;
+    }
 
     }
     else {
       Serial.println("Device not available!");
     }
 
-    delay(50);
   }
 
-}
+
 
 

@@ -3,9 +3,9 @@
 It's a cardboard musical instrument which began to be influenced by NINTENDO LABO.
 
 ## How does it work?
-Using the infrared camera, we change the position change of the reflective material attached to the cardboard to the interval.
+Using an infrared camera, change the position of the reflective material attached to the corrugated board to a pitch and output it as a MIDI signal.
 
-##W hich parts do you use?
+## Which parts do you use?
 - [Arduino Micro](https://store.arduino.cc/usa/arduino-micro)
 - [IR Positioning Camera For Arduino](https://www.dfrobot.com/product-1088.html)
 
@@ -25,7 +25,7 @@ Look at the figure
 NINTENDO LABOに影響を受けて作り始めた、ダンボール製の楽器です。
 
 ## どうやって動く？
-赤外線カメラを用いて、ダンボールに取り付けた反射材の位置の変化を音程に変えています。
+赤外線カメラを用いて、ダンボールに取り付けた反射材の位置の変化を音程に変えてMIDI信号として出力します。
 
 ## どの部品を使う？
 - [Arduino Micro](https://store.arduino.cc/usa/arduino-micro)
