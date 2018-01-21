@@ -1,4 +1,8 @@
 # IRCameraMidi
+
+
+![youtube](https://github.com/NaohiroIIDA/IRCameraMidi/blob/master/image/youtube.png?raw=true)(https://youtu.be/CBqcIZDoV9w)
+
 ## What is this?
 It's a cardboard musical instrument which began to be influenced by NINTENDO LABO.
 
@@ -11,7 +15,7 @@ Using an infrared camera, change the position of the reflective material attache
 
 ## How to connect?
 Look at the figure
-![Connection](https://github.com/NaohiroIIDA/IRCameraMidi/blob/master/image/connect.jpg?raw=true)
+![Connection](https://github.com/NaohiroIIDA/IRCameraMidi/blob/master/image/connection2.png?raw=true)
 
 ## Library
 - [DFRobotIRPosition](https://www.arduinolibraries.info/libraries/df-robot-ir-position)
@@ -33,7 +37,7 @@ NINTENDO LABOに影響を受けて作り始めた、ダンボール製の楽器�
 
 ## どう接続する？
 図を見てね
-![Connection](https://github.com/NaohiroIIDA/IRCameraMidi/blob/master/image/connect.jpg?raw=true)
+![Connection](https://github.com/NaohiroIIDA/IRCameraMidi/blob/master/image/connection2.png?raw=true)
 
 ## 使用ライブラリ
 - [DFRobotIRPosition](https://www.arduinolibraries.info/libraries/df-robot-ir-position)
