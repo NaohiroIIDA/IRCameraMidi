@@ -13,9 +13,9 @@ Using the infrared camera, we change the position change of the reflective mater
 Look at the figure
 ![Connection](https://github.com/NaohiroIIDA/IRCameraMidi/blob/master/image/connect.jpg?raw=true)
 
-##Library
-[DFRobotIRPosition] (https://www.arduinolibraries.info/libraries/df-robot-ir-position)
-[MIDIUSB] (https://www.arduinolibraries.info/libraries/midiusb)
+## Library
+- [DFRobotIRPosition](https://www.arduinolibraries.info/libraries/df-robot-ir-position)
+- [MIDIUSB](https://www.arduinolibraries.info/libraries/midiusb)
 
 ------
 
@@ -36,5 +36,5 @@ NINTENDO LABOに影響を受けて作り始めた、ダンボール製の楽器�
 ![Connection](https://github.com/NaohiroIIDA/IRCameraMidi/blob/master/image/connect.jpg?raw=true)
 
 ## 使用ライブラリ
-[DFRobotIRPosition](https://www.arduinolibraries.info/libraries/df-robot-ir-position)
-[MIDIUSB](https://www.arduinolibraries.info/libraries/midiusb)
+- [DFRobotIRPosition](https://www.arduinolibraries.info/libraries/df-robot-ir-position)
+- [MIDIUSB](https://www.arduinolibraries.info/libraries/midiusb)
